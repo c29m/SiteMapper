@@ -1,0 +1,6 @@
+SiteMapper is a desktop application that can generate a web.sitemap from a static asp.net webform application.
+
+It reads each file and generates appropiate sitemap nodes with the url, the title and description.
+
+it has filters for folders and files (not implemented in the gui yet XD), and outputs to a table as well as a web.sitemap file.
+
